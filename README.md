@@ -47,9 +47,7 @@ To get started with the College Fest Management System, follow these steps:
 
 Contributions are welcome! Whether you want to fix bugs, add new features, or improve the documentation, feel free to fork the repository and submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
